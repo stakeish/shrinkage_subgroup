@@ -16,8 +16,8 @@ critical_value <- qnorm(0.95)^2
 set.seed(10)
 
 nrep <- 2000
-n <- 500
-p.all <- seq(from = 9.25, to = 13, by = 0.25)
+n <- 600
+p.all <- seq(from = 10, to = 13, by = 0.25)
 p.length <- length(p.all)
 rejection <- matrix(double(nrep * p.length), nrow = nrep, ncol = p.length)
 
