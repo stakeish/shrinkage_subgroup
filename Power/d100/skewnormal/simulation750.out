@@ -1,0 +1,187 @@
+
+Attaching package: ‘lbfgs’
+
+The following object is masked from ‘package:nloptr’:
+
+    lbfgs
+
+Loading required package: stats4
+
+Attaching package: ‘sn’
+
+The following object is masked from ‘package:stats’:
+
+    sd
+
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+ld: warning: could not create compact unwind for ___emutls_get_address: registers 23 and 24 not saved contiguously in frame
+[[1]]
+[[1]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[1]]$modules
+character(0)
+
+[[1]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[1]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpRdKu6f/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f52abae7b4"
+
+
+[[2]]
+[[2]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[2]]$modules
+character(0)
+
+[[2]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[2]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpKpzjhz/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134fb18c4007b"
+
+
+[[3]]
+[[3]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[3]]$modules
+character(0)
+
+[[3]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[3]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpkvONyu/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134fe2cad2623"
+
+
+[[4]]
+[[4]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[4]]$modules
+character(0)
+
+[[4]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[4]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmphhjRKB/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f47a6ee518"
+
+
+[[5]]
+[[5]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[5]]$modules
+character(0)
+
+[[5]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[5]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpC6gLZM/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f61e6337d2"
+
+
+[[6]]
+[[6]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[6]]$modules
+character(0)
+
+[[6]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[6]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmptuHkIz/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f83643861f"
+
+
+[[7]]
+[[7]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[7]]$modules
+character(0)
+
+[[7]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[7]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpNY090E/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134fd5cfe1322"
+
+
+[[8]]
+[[8]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[8]]$modules
+character(0)
+
+[[8]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[8]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpwIw3W6/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f9350e7d31"
+
+
+[[9]]
+[[9]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[9]]$modules
+character(0)
+
+[[9]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[9]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/Rtmp7sCpkA/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134fc3453c2a1"
+
+
+[[10]]
+[[10]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[10]]$modules
+character(0)
+
+[[10]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[10]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpPgGd21/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134f74e952951"
+
+
+[[11]]
+[[11]]$functions
+[1] "llogit" "dlogit" "obj"    "grad"  
+
+[[11]]$modules
+character(0)
+
+[[11]]$cppSourcePath
+[1] "/Users/takeishi/power_d_100_lambda_1_skew/src/cppshrinkage.cpp"
+
+[[11]]$buildDirectory
+[1] "/private/var/folders/m7/l9g6yzm174vb9vhdp4m0t8040000gn/T/RtmpXrq2Dr/sourceCpp-aarch64-apple-darwin20-1.0.10/sourcecpp_134fa675db38"
+
+
+     power equal power SLR adj. power equal adj. power SLR
+100       0.0000    0.0000           0.0000         0.0000
+250       0.0000    0.0000           0.0000         0.0000
+500       0.0000    0.0000           0.0000         0.0000
+750       0.7116    0.7446           0.7136         0.7286
+1000      0.0000    0.0000           0.0000         0.0000
